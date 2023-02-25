@@ -109,7 +109,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Deploys  <span>-&gt;</span>
+              Deploys-1  <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Instantly deploy your Next.js site to a shareable URL
